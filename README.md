@@ -62,9 +62,9 @@
 <img src="https://z10mx7.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
+<h1>Hi 👋, I'm z10mx7</h1>
+### <div align="center">a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
-  
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/z10mx7/github-profilinator)  
   
