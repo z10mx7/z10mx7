@@ -1,9 +1,4 @@
-<h1>Hi 👋, I'm z10mx7</h1>
-<p>A passionate frontend developer from </p>
- 
- <div align="center">
-<img src="https://z10mx7.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+
   
 <h1>Hi 👋, I'm z10mx7</h1>
 <h2>a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</h2>
